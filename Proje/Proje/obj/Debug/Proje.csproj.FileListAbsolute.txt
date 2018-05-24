@@ -1,0 +1,494 @@
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.UserStoryTool.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.exe.licenses
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.TaskTool.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Scrum.resources
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.exe
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.exe.config
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Images.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Form1.resources
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Form2.resources
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Scrum.resources
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.TaskTool.resources
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.UserStoryTool.resources
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.exe.licenses
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.exe
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.pdb
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.pdb
+D:\VisualStudioProjects\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.TaskTool.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.UserStoryTool.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.exe.licenses
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.TaskTool.resources
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.UserStoryTool.resources
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.exe.licenses
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.frmSplash.resources
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.frmProjeler.resources
+C:\Users\furka\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.frmScrum.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.frmSplash.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.frmProjeler.resources
+C:\Users\Semih\Desktop\YazılımYapımıProje (2)\YazılımYapımıProje\Proje\Proje\obj\Debug\Proje.frmScrum.resources
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.frmSplash.resources
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.frmProjeler.resources
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.frmScrum.resources
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.TaskTool.resources
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.UserStoryTool.resources
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.exe.licenses
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Semih\Desktop\YazılımYapımıDönemSonuProje\Proje\Proje\obj\Debug\Proje.pdb
